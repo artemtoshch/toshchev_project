@@ -1,4 +1,4 @@
-student_name = "ощев Артём Павлович"
+student_name = "Тощев Артём Павлович"
 group_number = "3140801_52501"
 project_name = "ЖК Астрамарин"
 floors = "7 этажей"
